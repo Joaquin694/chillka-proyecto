@@ -1,0 +1,92 @@
+{
+    "poblacion_sin_alcantarillado": {
+      "por_area_geografica": {
+        "Madre de Dios": 61.4,
+        "Ucayali": 59.6,
+        "Loreto": 54.5,
+        "Huanuco": 46.0,
+        "Cajamarca": 39.9,
+        "San Martin": 39.8,
+        "Piura": 39.5,
+        "Puno": 39.3,
+        "Apurimac": 35.4,
+        "Huancavelica": 35.3,
+        "Amazonas": 33.6,
+        "Ayacucho": 32.2,
+        "Tumbes": 25.3,
+        "Cusco": 24.5,
+        "Ancash": 22.2,
+        "Lambayeque": 22.1,
+        "Lima 2": 18.9,
+        "La Libertad": 18.5,
+        "Tacna": 15.7,
+        "Arequipa": 13.7,
+        "Ica": 10.2,
+        "Lima Metropolitana": 7.3,
+        "Moquegua": 7.3,
+        "Prov. Const. del Callao": 5.3
+      },
+      "grupos_vulnerables": {
+        "nacional": {
+          "porcentaje": 22.8,
+          "cv": 3.0
+        },
+        "hombre": {
+          "porcentaje": 23.2,
+          "cv": 3.1
+        },
+        "mujer": {
+          "porcentaje": 22.4,
+          "cv": 3.1
+        },
+        "grupo_etario": {
+          "0-4_anos": {
+            "porcentaje": 30.0,
+            "cv": 3.6
+          },
+          "5-17_anos": {
+            "porcentaje": 28.7,
+            "cv": 3.7
+          },
+          "18-59_anos": {
+            "porcentaje": 21.8,
+            "cv": 3.0
+          },
+          "60_mas_anos": {
+            "porcentaje": 18.1,
+            "cv": 4.2
+          }
+        },
+        "condicion_discapacidad": {
+          "con_discapacidad": {
+            "porcentaje": 24.1,
+            "cv": 4.1
+          },
+          "sin_discapacidad": {
+            "porcentaje": 22.7,
+            "cv": 3.0
+          }
+        },
+        "etnicidad": {
+          "origen_nativo": {
+            "porcentaje": 32.0,
+            "cv": 3.7
+          },
+          "otro": {
+            "porcentaje": 19.5,
+            "cv": 3.1
+          }
+        },
+        "lengua_materna": {
+          "lengua_nativa": {
+            "porcentaje": 38.0,
+            "cv": 3.5
+          },
+          "otra": {
+            "porcentaje": 21.3,
+            "cv": 3.1
+          }
+        }
+      }
+    }
+  }

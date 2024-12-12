@@ -1,0 +1,53 @@
+{
+    "inasistencia_escolar": {
+        "departamentos": {
+            "Ucayali": 21.2,
+            "Loreto": 19.1,
+            "La Libertad": 15.6,
+            "Prov. Const. del Callao": 15.5,
+            "San Martín": 14.8,
+            "Huánuco": 14.5,
+            "Lambayeque": 14.1,
+            "Lima Metropolitana": 14.0,
+            "Junín": 13.5,
+            "Piura": 13.5,
+            "Pasco": 13.0,
+            "Amazonas": 12.9,
+            "Ayacucho": 12.8,
+            "Arequipa": 12.3,
+            "Áncash": 12.1,
+            "Cajamarca": 11.8,
+            "Huancavelica": 11.6,
+            "Ica": 11.0,
+            "Lima": 11.0,
+            "Cusco": 10.5,
+            "Madre de Dios": 10.1,
+            "Puno": 9.7,
+            "Moquegua": 8.4,
+            "Tacna": 8.3,
+            "Tumbes": 7.3,
+            "Apurímac": 7.3
+        },
+        "grupos_vulnerables": {
+            "Nacional": 13.4,
+            "Hombre": 12.5,
+            "Mujer": 14.2,
+            "Grupo Etario": {
+                "3-4 años": 29.0,
+                "5-16 años": 10.6
+            },
+            "Condición de Discapacidad": {
+                "Con discapacidad": 19.8,
+                "Sin discapacidad": 13.2
+            },
+            "Etnicidad": {
+                "Origen nativo": 16.4,
+                "Otro": 13.1
+            },
+            "Lengua Materna": {
+                "Lengua nativa": 17.2,
+                "Otra": 13.3
+            }
+        }
+    }
+}

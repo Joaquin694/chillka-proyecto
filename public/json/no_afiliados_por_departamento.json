@@ -1,0 +1,155 @@
+{
+    "no_afiliados_por_departamento": [
+        {
+            "departamento": "Cajamarca",
+            "porcentaje": 86.3
+        },
+        {
+            "departamento": "Amazonas",
+            "porcentaje": 86.0
+        },
+        {
+            "departamento": "Ucayali",
+            "porcentaje": 85.5
+        },
+        {
+            "departamento": "Ayacucho",
+            "porcentaje": 85.5
+        },
+        {
+            "departamento": "San Martín",
+            "porcentaje": 84.6
+        },
+        {
+            "departamento": "Huánuco",
+            "porcentaje": 84.5
+        },
+        {
+            "departamento": "Puno",
+            "porcentaje": 84.3
+        },
+        {
+            "departamento": "Tumbes",
+            "porcentaje": 83.8
+        },
+        {
+            "departamento": "Apurímac",
+            "porcentaje": 83.7
+        },
+        {
+            "departamento": "Loreto",
+            "porcentaje": 83.5
+        },
+        {
+            "departamento": "Madre de Dios",
+            "porcentaje": 82.9
+        },
+        {
+            "departamento": "Huancavelica",
+            "porcentaje": 82.8
+        },
+        {
+            "departamento": "Pasco",
+            "porcentaje": 81.9
+        },
+        {
+            "departamento": "Piura",
+            "porcentaje": 81.5
+        },
+        {
+            "departamento": "Cusco",
+            "porcentaje": 81.2
+        },
+        {
+            "departamento": "Lambayeque",
+            "porcentaje": 80.2
+        },
+        {
+            "departamento": "Lima",
+            "porcentaje": 77.9
+        },
+        {
+            "departamento": "Lima Metropolitana",
+            "porcentaje": 61.2
+        },
+        {
+            "departamento": "Arequipa",
+            "porcentaje": 58.7
+        },
+        {
+            "departamento": "Prov. Const. del Callao",
+            "porcentaje": 58.4
+        },
+        {
+            "departamento": "Ica",
+            "porcentaje": 51.5
+        }
+    ],
+    "no_afiliados_por_grupos_vulnerables": {
+        "nacional": {
+            "porcentaje": 68.2,
+            "cv": 0.4
+        },
+        "hombre": {
+            "porcentaje": 60.9,
+            "cv": 0.5
+        },
+        "mujer": {
+            "porcentaje": 75.4,
+            "cv": 0.4
+        },
+        "grupo_etario": [
+            {
+                "grupo": "14 - 17 años",
+                "porcentaje": 100.0,
+                "cv": 0.0
+            },
+            {
+                "grupo": "18 - 29 años",
+                "porcentaje": 75.0,
+                "cv": 0.4
+            },
+            {
+                "grupo": "60 o más años",
+                "porcentaje": 64.6,
+                "cv": 0.7
+            }
+        ],
+        "condicion_discapacidad": [
+            {
+                "condicion": "Con discapacidad",
+                "porcentaje": 76.5,
+                "cv": 1.0
+            },
+            {
+                "condicion": "Sin discapacidad",
+                "porcentaje": 68.2,
+                "cv": 0.4
+            }
+        ],
+        "etnicidad": [
+            {
+                "grupo": "Origen nativo",
+                "porcentaje": 77.2,
+                "cv": 0.6
+            },
+            {
+                "grupo": "Otro",
+                "porcentaje": 66.4,
+                "cv": 0.4
+            }
+        ],
+        "lengua_materna": [
+            {
+                "grupo": "Lengua nativa",
+                "porcentaje": 78.2,
+                "cv": 0.8
+            },
+            {
+                "grupo": "Otra",
+                "porcentaje": 66.4,
+                "cv": 0.4
+            }
+        ]
+    }
+}

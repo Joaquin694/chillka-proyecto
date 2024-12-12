@@ -1,0 +1,52 @@
+{
+    "carencia_logro_educativo": {
+      "departamentos": {
+        "Huánuco": 43.9,
+        "Cajamarca": 41.9,
+        "San Martín": 37.0,
+        "Ayacucho": 35.5,
+        "Loreto": 34.4,
+        "Amazonas": 34.0,
+        "Apurímac": 33.6,
+        "Huancavelica": 30.0,
+        "Piura": 30.0,
+        "Ucayali": 29.9,
+        "Áncash": 28.6,
+        "La Libertad": 28.6,
+        "Cusco": 26.6,
+        "Madre de Dios": 26.6,
+        "Junín": 26.0,
+        "Puno": 24.4,
+        "Pasco": 23.5,
+        "Tumbes": 22.0,
+        "Lambayeque": 21.9,
+        "Lima 2/": 15.8,
+        "Arequipa": 15.0,
+        "Moquegua": 13.4,
+        "Prov. Constitucional del Callao": 12.5,
+        "Lima Metropolitana 1/": 10.8
+      },
+      "grupos_vulnerables": {
+        "Nacional": 22.0,
+        "Hombre": 18.2,
+        "Mujer": 25.6,
+        "Grupo_etario": {
+          "17 años": 10.0,
+          "18 - 59 años": 20.6,
+          "60 o más años": 35.3
+        },
+        "Condición_de_discapacidad": {
+          "Con discapacidad": 49.0,
+          "Sin discapacidad": 20.2
+        },
+        "Etnicidad": {
+          "Origen nativo": 27.9,
+          "Otro": 20.6
+        },
+        "Lengua_materna": {
+          "Lengua nativa": 39.0,
+          "Otra": 17.9
+        }
+      }
+    }
+  }

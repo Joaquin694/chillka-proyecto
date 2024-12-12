@@ -1,0 +1,163 @@
+{
+    "desempleo_por_departamento": [
+        {
+            "departamento": "Moquegua",
+            "porcentaje": 11.6
+        },
+        {
+            "departamento": "Prov. Const. del Callao",
+            "porcentaje": 9.6
+        },
+        {
+            "departamento": "Lima Metropolitana",
+            "porcentaje": 9.5
+        },
+        {
+            "departamento": "Arequipa",
+            "porcentaje": 8.3
+        },
+        {
+            "departamento": "Lambayeque",
+            "porcentaje": 7.9
+        },
+        {
+            "departamento": "Tumbes",
+            "porcentaje": 7.4
+        },
+        {
+            "departamento": "Junín",
+            "porcentaje": 7.0
+        },
+        {
+            "departamento": "Pasco",
+            "porcentaje": 6.8
+        },
+        {
+            "departamento": "Tacna",
+            "porcentaje": 6.1
+        },
+        {
+            "departamento": "Ica",
+            "porcentaje": 6.0
+        },
+        {
+            "departamento": "Piura",
+            "porcentaje": 5.7
+        },
+        {
+            "departamento": "Puno",
+            "porcentaje": 5.3
+        },
+        {
+            "departamento": "Lima",
+            "porcentaje": 5.2
+        },
+        {
+            "departamento": "La Libertad",
+            "porcentaje": 5.1
+        },
+        {
+            "departamento": "Ancash",
+            "porcentaje": 4.9
+        },
+        {
+            "departamento": "Madre de Dios",
+            "porcentaje": 4.8
+        },
+        {
+            "departamento": "Cusco",
+            "porcentaje": 4.6
+        },
+        {
+            "departamento": "Ucayali",
+            "porcentaje": 4.5
+        },
+        {
+            "departamento": "San Martín",
+            "porcentaje": 4.4
+        },
+        {
+            "departamento": "Amazonas",
+            "porcentaje": 4.4
+        },
+        {
+            "departamento": "Huancavelica",
+            "porcentaje": 4.0
+        },
+        {
+            "departamento": "Cajamarca",
+            "porcentaje": 3.8
+        },
+        {
+            "departamento": "Apurímac",
+            "porcentaje": 3.6
+        }
+    ],
+    "desempleo_por_grupos_vulnerables": {
+        "nacional": {
+            "porcentaje": 6.9,
+            "cv": 1.5
+        },
+        "hombre": {
+            "porcentaje": 5.7,
+            "cv": 2.2
+        },
+        "mujer": {
+            "porcentaje": 8.3,
+            "cv": 1.9
+        },
+        "grupo_etario": [
+            {
+                "grupo": "14 - 17 años",
+                "porcentaje": 9.7,
+                "cv": 8.8
+            },
+            {
+                "grupo": "18 - 29 años",
+                "porcentaje": 8.9,
+                "cv": 2.0
+            },
+            {
+                "grupo": "60 o más años",
+                "porcentaje": 6.2,
+                "cv": 4.9
+            }
+        ],
+        "condicion_discapacidad": [
+            {
+                "condicion": "Con discapacidad",
+                "porcentaje": 12.6,
+                "cv": 5.0
+            },
+            {
+                "condicion": "Sin discapacidad",
+                "porcentaje": 6.8,
+                "cv": 1.5
+            }
+        ],
+        "etnicidad": [
+            {
+                "grupo": "Origen nativo",
+                "porcentaje": 7.0,
+                "cv": 2.0
+            },
+            {
+                "grupo": "Otro",
+                "porcentaje": 6.8,
+                "cv": 1.8
+            }
+        ],
+        "lengua_materna": [
+            {
+                "grupo": "Lengua nativa",
+                "porcentaje": 7.4,
+                "cv": 3.4
+            },
+            {
+                "grupo": "Otra",
+                "porcentaje": 6.8,
+                "cv": 1.6
+            }
+        ]
+    }
+}
