@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('departamentos', function (Blueprint $table) {
             $table->id('id_departamento'); // No necesitas cambiar la propiedad nullable aquí
-            $table->string('nombre_departamento', 100);
+            $table->string('nombre_departamento', 100)->nullable();
             
             $table->timestamps();
         });
@@ -24,6 +24,12 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('departamentos');
+        // En la migración de 'departamentos'
+// En la migración de 'departamentos' o 'ciudades'
+Schema::dropIfExists('hogares');  // Eliminar la tabla dependiente primero
+Schema::dropIfExists('ciudades');  // Luego eliminar 'ciudades'
+Schema::dropIfExists('departamentos');   // Luego eliminar 'departamentos'
+
+
     }
 };

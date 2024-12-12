@@ -24,6 +24,10 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('ciudads');
+        // En la migración de 'departamentos' o 'ciudades'
+Schema::dropIfExists('hogares');  // Eliminar la tabla dependiente primero
+Schema::dropIfExists('ciudades');  // Luego eliminar 'ciudades'
+Schema::dropIfExists('departamentos');   // Luego eliminar 'departamentos'
+
     }
 };
